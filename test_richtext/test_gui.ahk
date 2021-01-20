@@ -12,6 +12,7 @@ Search_Strings := "+OSS_L4,@Bodymaker"
 Search_Text =
 (
 [COOLANT_PUMP_BM3G] +OSS_L4 @Bodymaker: 07.12.2020 email sent to Jansen for quote, waiting for reply  - 10.12.2020 reminder sent, waiting for reply - 15.12.2020 got quote and placed in SAP, also asked Basinski for quote, waiting for reply - 17.12.2020 asked for quote at Egger pumps, waiting for reply due:2020-12-18
+[COOLANT] +OSS_L4 @Bodymaker: 07.12.2020 email sent to Jansen for quote, 
 )
 
 appname := "SimpleRichEdit"
@@ -23,7 +24,9 @@ mainui:
    Gui, +Hwnd%appname%
    Gui, Font, s9 q5, Arial
    MyRichEdit := new richedit(%appname%,"w680 h480 vmyedit", true)
-   MyRichEdit.AlignText(2) ; align right
+   ;MyRichEdit.WordWrap(on)
+   ;MyRichEdit.SetFont(B)
+   MyRichEdit.AlignText(2) ; align left
    MyRichEdit.SetText(Search_Text)
    Gui, Show, h500 w700 center,%appname%
 Return
@@ -62,6 +65,8 @@ f3::
 CF2 := ""                                             ; release the CF2 object
 MyRichEdit.SetSel(CurrentSel.S, CurrentSel.E)         ; restore the previous selection
 MyRichEdit.ScrollCaret()                              ; scroll the caret into view
+MyRichEdit.WordWrap(on)
+MyRichEdit.SetFont(B)
 Return
 
 ;------------------------------
@@ -71,6 +76,8 @@ Return
 ;Demonstrate using the class' built-in ToggleFontStyle for the current selection
 MakeBold:
 MyRichEdit.ToggleFontStyle("B")
+MyRichEdit.WordWrap(on)
+MyRichEdit.SetFont(B)
 return
 
 ;Demonstrate setting of tag-styled text
@@ -80,6 +87,8 @@ MyRichEdit.SetText("{\rtf some  text } `n {\rtf more text}", ["SELECTION"])
 MyRichEdit.ToggleFontStyle("B")
 MyRichEdit.SetText(" `n", ["SELECTION"])
 MyRichEdit.SetText(A_Now "`n", ["SELECTION"])
+MyRichEdit.WordWrap(on)
+MyRichEdit.SetFont(B)
 	;~ MyRichEdit.SetText(" `n", ["SELECTION"])
 Return
 
@@ -92,6 +101,8 @@ MyRichEdit.ToggleFontStyle("B")
 MyRichEdit.ToggleFontStyle("I")
 MyRichEdit.SetText("{\rtf " . colortable . "Colouized text: " . redtext . " Colouized text: " ".} `n ", ["SELECTION"])
 MyRichEdit.SetText("`n", ["SELECTION"])
+MyRichEdit.WordWrap(on)
+MyRichEdit.SetFont(B)
 return
 
 Clear:
