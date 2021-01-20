@@ -1,0 +1,127 @@
++General_Tasks actualizar Team FE excel schedule due:2021-01-04
++HD_modification_info @Trimmer: 20.07.18 13:50:06 email sent to Hanna from belvac asking for documentation about the EMC cartridges. I want to find out what are the advantages between the HD, HD Enzesfeld and EMC - 24.07.18 email sent to Olga from Belvac asking the same questions, because I got no response from Hana. Waiting for reply. - 24.07.18 Olga answered, sent some flyers, but no price. Waiting for price - 24.07.18 Olga replied. EMC is cheaper, circa 4000USD. Is it really worth to convert the HD cartridge? It a 10 year old solution, and EMC came out around 15 years ago, so maybe it´s not worth to convert HD cartridges (and they are becoming obsolete in the near future, acording do Belvac) and Belvac also has a replacement program for the EMC cartridge
++STI_standarization_info @Trimmer: 21.07.18 10:49:22 Dariusz de RDM disse me que apenas copiaram STI para lata 211. Quando tiveram de comecar a produzir Slim em 2009, tiveram de transformar os trimmers
++STI_standarization_info @Trimmer: 23.07.18 10:53:45 Jean-Pierre de La Ciotat disse que copiaram STI para 33 Standard e Sleek
+(A) +STI_standarization_info @Trimmer: 23.07.18 10:57:57 RDM, copied STI for can 211
+(A) +STI_standarization_info @Trimmer: 23.07.18 11:00:08 LCT, copied STI for can 211 and 206
++HD_modification_info @Trimmer: 24.07.18 12:00:53 asked Olga what is the plan for the obsolence of the HD cartridge, waiting for reply - 24.07.18 will become obsolete in 2 years, then only maintenance
++WXM_STI_standarization @Trimmer: 26.07.18 08:51:35 uniformizar desenhos de RDM - 27.07.18 ja comecei a transferir os desenhos para o template oficial. Ainda me falta a informacao relativa ao material e revestimento. Enviei email ao Bartnik a perguntar, aguardo resposta - 30.07.18 já organizei o que podia relativamente ao ficheiros autocad que foram enviados, falta perceber como fizeram as pecas que supostamente foram cortadas a laser. Tenho duas imagens que acho que sao de pecas que foram cortadas a laser, mas não tenho o ficheiro cad. Tenho de perguntar ao Bartnik o que foi feito. Ele ainda não respondeu as perguntas sobre o material e revestimento due:2018-07-31
++WXM_STI_standarization @Trimmer: 18.09.18 11:02:27 Paul Mark Jones will work to copy the sleek STI with OSS once this is available to from OSS plant. I want to join and help with the drawings, remind Paul Mark Jones to tell when is he going to get the unit to copy - 26.09.18 asked Paul for the exact changeover date in OSS - 26.09.18 he has asked OSS for the date, waiting for reply - 01.10.18 the date is planned for the end of November - 02.10.18 it is planned for the 20.11.18 - 16.10.18 Paul Mark Jones asked if we can cover the costs for RCJ´s transportation and accomodation. Email sent to Christoph asking if we can do this with project money due:2018-10-22
++HD_modification @Trimmer: 01.10.18 14:16:01 email sent to ENZ asking which drill size they used to make the new hole. Waiting for reply - 02.10.18 they used 6.9mm drill. Adjust position of hole and 3d print again - 08.10.18 confirmed hole size with caliper, send to 3d print - 08.10.18 part sent to Udo for printing. waiting for reply and print - 08.10.18 printed, send to ENZ - 08.10.18 part sent to ENZ, waiting for feedback - 17.10.18 hole is now correctly positioned. I will now finish the drawings - 11.01.19 drawings made (no review from anyone), started to make presentation - 14.01.19 first release sent to ENZ waiting for feedback - 22.01.19 Feedback received, I have to implement the double nut solution and correct the representation on the system on page 18 of the powerpoint - 23.07.19 modification made, now I have to make the SOP due:2019-07-23
+[APRISO_CONNECTION_TO_EXCEL] +General_Tasks 15.01.19 asked Seth if it is possible to connect excel directly to excel so that the data is extracted automatically, waiting for reply - 21.01.19 Seth replied, asked to contact Jason Holt. Email sent to him
++General_SAP 09:47:57 review SAP orders due:2021-01-16
+(A) +OSS_L4_SAP_PO - GL ACCOUNT: 52370101 - BNR CAPITAL INVESTMENTS - PLANT 2223 (OSS)
++OSS_L4_SAP_PO - 11764873 (11.02.2020) # PO 4501568159 (03.03.2020) # IPS - Cross Hatch Machine - 10.06.2020 RECEIVED
++OSS_L4_SAP_PO - 11765641 (13.02.2020) # PO 4501566441 (25.02.2020) # SLAC (135201) - Bodymakers and Trimmers - QUOTE: https://tinyurl.com/y43qew7q - 1st SHIPMENT: https://tinyurl.com/y5r7vtu7
++OSS_L4_SAP_PO - 11766913 (20.02.2020) # PO 4501568143 (03.03.2020) # SLAC (135201) - Cupper Die Set and Trimmer Change Parts - QUOTE: https://tinyurl.com/y3pu79wu
+[BM_SPARE_PARTS] +OSS_L4 @Bodymaker: 25.02.2020 10:37:41 Frank Gielis sent the excel file to McKenzie, waiting for reply but I should receive the file no later tan the 11th of May - 16.07.2020 Theo asked if I have spare parts, send email to SLAC asking for them - 17.07.2020 email sent to Green, waiting for reply - 24.07.2020 email sent to Green asking for update and if he has received the spare parts list that he has to fill out, waiting for reply - 13.08.2020 reminder sent to Green, waiting for reply - 14.08.2020 should get list next week, monitor - 21.08.2020 lists received from Green and forwarded to Theo. Save on the project folder and anaylise later - 10.09.2020 reminder sent to Green, waiting for reply - 15.09.2020 email sent to Green asking to send date of when he can send the spares list, waiting for reply - 15.09.2020 friday the 18th we should get list - 21.09.2020 we have the lists. Forwarded electrical to Theo. Take care of mine - 29.09.2020 asked for proper Master File to Danijela, waiting for reply+ - 01.10.2020 email sent to Hans and Ron, waiting for reply - 06.10.2020 reminder sent to Hans and Ron, waiting for reply - 12.10.2020 meeting setup with Ron and Hans, waiting for reply - 14.10.2020 Hans will ask stores for trimmer spares, I sent email to Radomsko asking for BM spares, waiting for reply - 28.10.2020 reminder sent to Radomsko, waiting for reply - 09.11.2020 list received, but too much. Email sent to Hans and Ron asking to change list, waiting for reply - 10.11.2020 to be finalized next friday, monitor - 13.11.2020 reminder sent to Ron, waiting for reply - 16.12.2020 parts for SLAC BMs are ordered for L3, same should be for L4. Lists sent to Danjiela, waiting for reply - 12.01.2021 reminder sent to Danijela, waiting for reply due:2021-01-13
++PDR_HD_CARTRIDGES - review plant implementation for of HD cartridges
++PDR_3D_PRINTING - send email to Mark3D informing current status - 10.03.20 email sent to Ormandy asking how the Mark3D event went, waiting for reply due:2020-03-23
++PDR_STI - ask JP for the drawings of the STI he had made on LCT - 26.02.20 email sent waiting for reply - 30.04.20 reminder sent, waiting for reply due:2020-05-04
++PDR_STI - review who uses STI around the plants
++PDR_STI - assess if SLAC trimmers use the same STI as SLAC
++PDR_ABP - ask Steve Ellis how the inner domer lets air go through to blow of the can and if there is drawing - 26.02.20 waiting for picture from Steve Ellis - 02.03.20 asked John to send me a picture, waiting for reply - 03.03.20 got picture from John, asked to confirm if air really goes through the holes, waiting for reply - 06.03.20 John confirmed that air goes through the hole of the BM is number. Information sent to Ingo due:2020-03-23
++PDR_HD_CARTRIDGES - make cost comparasion for between and HD cartridges - 26.02.20 email sent to Steve from RCJ with more information about the station, waiting for reply due:2020-05-05
+[REDRAW_RING_HOLDER] +WXM_Sleek_Line2 modify drawing, plant made 8 thou grind
+[TOOLPACK_SPACER] +WXM_Sleek_Line2 modify drawing, plant made 8 thou grind and assess which spacer it is
+[TOOLPACK_CLAMP_PISTONS] +WXM_Sleek_Line2 it will be needed to grind the inner face of the piston bore, once done send info to Stolle to modify drawing
+[SLEEK_SOP] +PDR_ABP gather all the SOPs for the Sleek changeover, LCT, OSS and WXM - 30.04.20 email sent to Jack, waiting for reply due:2020-05-04
++OSS_L4_SAP_PO - 11770879 (09.03.2020) # PO 4501575336 (25.03.2020) # Wallram (105741) - Necker Tooling - ORDER: https://tinyurl.com/yyent3gq - 28.10.2020 RECEIVED
++OSS_L4_SAP_PO - 11771157 (10.03.2020) # PO 4501571681 (12.03.2020) # CMB (103071) - Necker Parts CMS 90622 || QUOTE: https://tinyurl.com/ybf7kpjv
++OSS_L4_SAP_PO - 11772003 (13.03.2020) # PO 4501575339 (25.03.2020) # Wallram - BM Tooling - ORDER: https://tinyurl.com/y6y5hear - DELIVERED - email sent to Dennis if all ok, waiting for reply - 02.12.2020 all ok
++OSS_L4_SAP_PO - 11773542 (23.03.2020) # PO 4501574398 (23.03.2020) # Slac - Stripper Assembly Spares
++OSS_L4_SAP_PO - 11776173 (03.04.2020) # PO 4501579160 (09.04.2020) # CMB (103071) - Necker 3.1 Stabil Stage CMS 90647 || QUOTE: https://tinyurl.com/yxdg8e32
++OSS_L4_SAP_PO - 11776784 (07.04.2020) # PO 4501579161 (09.04.2020) # CMB (103071) - Necker 3.2 Stabil Stage CMS 90648 || QUOTE: https://tinyurl.com/y6yue52u
++OSS_L4_SAP_PO - 11776848 (07.04.2020) # PO 4501578946 (08.04.2020) # Verstappen - Boxer Vacum Connections
++OSS_L4_SAP_PO - 11778459 (15.04.2020) # PO 4501581885 (21.04.2020) # Pressco - Service Necker 3.2
+[SEND_TRIMMER_SPEC] +OSS_L4 @Trimmer: 16.04.2020 14:22:50 send signed spec to Green due:2020-04-20
++OSS_L4_SAP_PO - 11779282 (20.04.2020) # PO 4501582961 (24.04.2020) # Stolle - 6pt cut edges - ORDER: https://tinyurl.com/ya2uy3m4 - 01.10.2020 RECEIVED
++OSS_L4_SAP_PO - 11779284 (20.04.2020) # PO 4501582840 (24.04.2020) # Wallram - Cupper Tooling - ORDER: https://tinyurl.com/yy45gtts
++OSS_L4_SAP_PO - 11779615 (21.04.2020) # PO 4501584654 (30.04.2020) # Pride (126291) - Bottom reformer - QUOTE: https://tinyurl.com/y87x42ay - 09.06.20 Shipped (https://bit.ly/2Y0BDHG), monitor - 18.06.20 RECEIVED
+[EMC_QUOTE_from_BELVAC] +PDR_HD_CARTRIDGES email sent to Olga, waiting for reply due:2020-05-04
++OSS_L4_SAP_PO - 11784059 (13.05.2020) # PO 4501588447 (25.05.2020) # 4M - Stripper Plastic Rings - 19.05.2020 RECEIVED
+[L3_CONVERSION_TO_33cl_SLEEK_of_50cl_SLAC_BMs] +OSS_L4_330_L3 @Bodymaker: 04.06.2016:40:08 email sent to Green asking for quote, waiting for reply - 05.06.20 Green sent me the quote https://tinyurl.com/yawgeqm8 , monitor - 02.07.20 on hold for the dual deco project
++OSS_L4_SAP_PO - 11788567 (05.06.2020) # PO 4501596823 (18.06.2020) # CMB (103071) - Reformer Roller HR2.7 || QUOTE: https://tinyurl.com/y8ommakm
++OSS_L4_SAP_PO - 11771157 (05.06.2020) # PO 4501595331 (10.06.2020) # CMB (103071) - Installation costs L3 and L4 || L3 COSTS: https://tinyurl.com/y6p5wnkp L4 COST: https://tinyurl.com/y64evoqv
+[L3_CONVERSION_TO_33cl_SLEEK_CMB_TRIMMERS] +OSS_L4_330_L3 @Trimmer: 10.06.20 09:40:28 email sent to Nick asking for quote, waiting for reply - 23.06.20 reminder sent to Nick, waiting for reply - 02.07.20 quote received https://tinyurl.com/y85g4q8t - 02.07.20 on hold for the dual deco project
++OSS_L4_SAP_PO - 11791586 (22.06.2020) # PO 4501599532 (25.06.2020) # ENCO (102181) - Necker Support - 30.10.2020 reminder send to Enco, waiting for reply - 02.11.2020 all good
++OSS_L4_SAP_PO - 11793692 (01.07.2020) # PO 4501606097 (21.07.2020) # Paul White - Necker/Trimmer Support - CANCELED
++OSS_L4_SAP_PO - 11793945 (02.07.2020) # PO 4501602995 (09.07.2020) # ENCO - Misc. L4 Bodymaker parts - Delivery on hold because we don't have space in the plant
+[DIE_SET_CART] +OSS_L4 @Cupper: 28.05.20 15:03:32 make order to Slac, how to I do it? Ask Ingo/Franz - 02.06.2020 email sent to Ron asking if design is ok, waiting for reply - 03.06.20 email sent to Klein asking if we can use the same design, waiting for reply - 05.06.20 not urgent, waiting for Ron to be back from vacations - 27.07.2020 reminder sent to Ron, waiting for reply - 22.09.2020 reminder sent, waiting for reply - 22.09.2020 Ron said Christian has the drawings, email sent to Christian, asking for them, waiting for reply - 13.01.2021 email sent to Sascha asking for quote, waiting for reply due:2021-01-15
++OSS_L4_SAP_PO - 11798497 (24.07.2020) # PO 4501608006 (28.07.2020) # SLAC (135201) - Rotation of redraw cams
++OSS_L4_SAP_PO - 11801013 (06.08.2020) # PO 4501610886 (07.08.2020) # Berghege (134744) - Floor coating removal
++OSS_L4_355_SAP_PO - 11802329 (13.08.2020) # PO 4501615868 (07.09.2020) # SLAC - 355 BM and trimmer change parts - ORDER: https://tinyurl.com/y2gwja9g - 13.10.2020 delivery before end of year, monitor - 15.12.2020 email sent to Green asking for shippment date, waiting for reply - 08.01.2021 reminder sent, waiting for reply due:2021-01-18
++OSS_L4_200N_SAP_PO - 11802540 (14.08.2020) # PO 4501613674 (18.08.2020) # CMB (103071) - 200N change parts - delivery date due:2021-04-09 || ORDER: https://tinyurl.com/y538u88a
++OSS_L4_200N_SAP_PO - 11802541 (14.08.2020) # PO 4501614120 (19.08.2020) # Wallram - 200N necker tooling - delivery date due:2021-01-22 - ORDER: https://tinyurl.com/y3oxx6ye
++OSS_L4_355_SAP_PO - 11803197 (18.08.2020) # PO 4501615860 (07.09.2020) # CMB (103071) - Necker 355 change parts CMS 90715 - delivery date on the final date under discussion || ORDER: https://tinyurl.com/yyxo6bhd - 13.10.2020 new update middle November - 17.12.2020 no update given due:2021-01-14
++OSS_L4_SAP_PO - 11803755 (20.08.2020) # PO 4501615005 (08.09.2020) # GBI (101974) - Gas Rental
++OSS_L4_SAP_PO - 11803905 (21.08.2020) # PO 4501615458 (08.09.2020) # K&N - Cross conveyor door 2 door - 11.09.2020 RECEIVED
++OSS_L4_355_SAP_PO - 11803980 (21.08.2020) # PO 4501620238 (11.09.2020) # Wallram - Bodymaker 355 Tooling - First batch to be delivered on the - ORDER: https://tinyurl.com/yxzuh7xx - 28.09.2020 ID numbers sent, waiting for reply - 17.12.2020 asked if all ok. waiting for reply due:2021-01-29
++General_Tasks 09.09.2020 BM4 hole template. Email sent to Kevin asking of he has one, waiting for reply - 15.09.2020 reminder sent to Anthony, waiting for reply due:2020-09-21
++OSS_L4_355_SAP_PO - 11807953 (10.09.2020) # PO 4501620656 (14.09.2020) # SLAC - Cupfeed change parts - ORDER: https://tinyurl.com/y23cvb94
+[CROSSHATCH_355_CHANGE_PARTS] +OSS_L4 @Bodymaker: 11.09.2020 email sent to IPS asking if crosshtach needs change parts, waiting for reply - 14.09.2020 no need for change parts according to IPS - 11.12.2020 email sent to Hans asking if someone from shift could place machine, waiting for reply - 16.12.2020 reminder sent to Hans, waiting for reply due:2020-12-18
++OSS_L4_SAP_PO - 11809474 (17.09.2020) # PO 4501623048 (21.09.2020) # ENCO - coolant pump extended pipe
++OSS_L4_SAP_PO - 11789535 (10.06.2020) # PO 4501595491 (11.06.2020) # Various - SLAC freight costs
++OSS_L4_SAP_PO - 11809604 (17.09.2020) # PO 4501623085 (22.09.2020) # Proline (102612) - Ragsdales Cupdrop
++OSS_L3_SAP_PO - 11810227 (21.09.2020) # PO 4501624942 (29.09.2020) # ENCO - FE Platforms L3
++OSS_L4_SAP_PO - 11803659 (20.08.2020) # PO 4501615970 (26.08.2020) # SLAC - Additional work due to Corona
++OSS_L4_SAP_PO - 11810797 (23.09.2020) # PO 4501624944 (29.09.2020) # EVANS - Bodymaker Oil Filling System
++OSS_L4_SAP_PO - 11811164 (24.09.2020) # PO 4501624972 (28.09.2020) # Baajiens - Drip tray extension
++OSS_L2_SAP_PO - 11812251 (29.09.2020) # PO 4501627551 (06.10.2020) # CMB (103071) - L3/L2 sleek trimmer change parts CMS 90739 || ORDER: https://tinyurl.com/y3axn6vv
++OSS_L4_SAP_PO - 11801280 (07.08.2020) # PO 4501627098 (06.10.2020) # Canmore Engineering - Support Oss
++OSS_L4_SAP_PO - 11812814 (01.10.2020) # PO 4501626728 (05.10.2020) # Baaijens - BM3.2 console extension
++OSS_L2_SAP_PO - 11813186 (05.10.2020) # PO 4501628107 (08.10.2020) # Ulehake - Structural analysis for foundations L3/L2 BMs
+[RAGSDALES_TO_CHINA] +OSS_L4 @Bodymaker: 06.10.2020 documents sent to Jan Willem, monitor - 07.10.2020 Jan Willem sent documents to Green, monitor - 15.10.2020 semail sent to Willem asking if he needs more from us, waiting for reply - 29.10.2020 monitor all after the 4th BM is at VanRiel, monitor - 09.11.2020 asked VanRiel to send picture from 1st BM and asked is CCIC inspection is possible on the 30th of November, waiting for reply - 10.11.2020 photos from 3D sent to SLAC, arrange cleanup with Akdemir. Asked email from Gabriel, waiting for reply - 11.11.2020 email sent to Akdemir asking for quote, waiting for reply - 12.11.2020 PR created, monitor - 13.11.2020 PO is out, email sent to Akdemir asking if possible for monday, call VanRiel if also possible for them. - 13.11.2020 Waiting for VanRieal and Akdemir confirmation for monday and asked Keith Evans what is the weight of an electrical panel, waiting for reply - 07.12.2020 email sent to CCIC confirming address and asked to confirm how many people, waiting for reply - 09.12.2020 inspection is today, monitor - 10.12.2020 inspection done, compressor tanks need to be removed. Email sent to Mario asking who is covering the costs, waiting for reply - 10.12.2020 email sent to Jan Willem asking who's responsability is it, waiting for reply - 11.12.2020 Jan Willem said that we must organize. Ask Project who can do this. - 15.12.2020 email sent to Jacco to quote removal of compressor tanks, waiting for reply - 16.12.2020 quote from Veldkamp received. Email sent asking if they can do this next week. Waiting for reply - 17.12.2020 asked Veldkamp if they could go next Tuesday, waiting for reply - 08.01.2021 email sent to Willem asking what to do next, waiting for reply - 12.01.2021 reminder sent to Jan Willem, waiting for reply - 13.01.2021 email sent to Green saying that everything is ready to ship, waiting for reply - 15.01.2021 all info sent to Forwarder, monitor due:2021-01-22
++OSS_L4_355_SAP_PO - 11815560 (14.10.2020) # PO 4501630685 (16.10.2020) # CMB (103071) - Support necker conversion
++OSS_L4_SAP_PO - 11816947 (20.10.2020) # PO 4501631913 (21.10.2020) # VanRiel - Hoyster Rental
++OSS_L4_SAP_PO - 11817136 (21.10.2020) # PO 4501631987 (23.10.2020) # Baaijens - Drip tray extension rework
++OSS_L4_SAP_PO - 11818256 (26.10.2020) # PO 4501633435 (27.10.2020) # Baaijens - Terminal holder service
+[SLAC_CROSSOVER_TRACKWORK] +OSS_L4 @Bodymaker: 26.10.2020 email sent to Mario asking to discuss this. Slac proposed some solution, will have to decide what to do, monitor - 28.10.2020 raise the topic with meeting with Chris McKenzie, monitor - 05.11.2020 email sent to Mick asking if he sent drawings to SLAC. Waiting for reply - 09.11.2020 reminder sent, waiting for reply - 12.11.2020 it is almost sure that we can modify the SLAC track to fit the existing BMs, as Mick what we can do about this and who is doing it - 19.11.2020 not priority right now, monitor anyway - 15.12.2020 BM31 has been fitted with new track, ask if BM32 also has been - 15.12.2020 all should be done today, monitor - 17.12.2020 done, only 3G missing, monitor when installed due:2021-01-25
++OSS_L2_SAP_PO - 11824014 (18.11.2020) # PO 4501640591 (18.11.2020) # OKL - BM conversion parts - 01.12.2020 email sent to Franz asking for drawings, waiting for reply - 02.12.2020 drawing received and sent to OKL, waiting for reply - 07.12.2020 we got timing diagram, Ingo is going to take a look at it - 09.12.2020 reviewed it with Ingo, it looks ok. Email sent to Hongwei asking to send BM tooling layout, waiting for reply due:2020-12-10
++OSS_L2_SAP_PO - 11818722 (27.10.2020) # PO 4501635885 (03.11.2020) # Pride - Sleek and Std toolpacks - 11.01.2021 email sent to Tove asking to get toolpacks in Oss mid February, asked Tubbe to help, waiting for reply - 12.01.2021 will be shipped with K&N, monitor due:2021-01-14
++OSS_L4_SAP_PO - 11820098 (02.11.2020) # PO 4501635875 (03.11.2020) # Baaijens - Various for L2 BM
++OSS_L4_SAP_PO - 11821643 (09.11.2020) # PO 4501639200 (13.11.2020) # Baaijens - Stairs cup conveyors
++OSS_L4_SAP_PO - 11822102 (10.11.2020) # PO 4501638540 (12.11.2020) # Baaijens - BM3B drip tray extension
++OSS_L4_SAP_PO - 11822132 (10.11.2020) # PO 4501638534 (12.11.2020) # VanRiel (115928) - 90t crane rental
++OSS_L4_SAP_PO - 11822766 (12.11.2020) # PO 4501638985 (13.11.2020) # Akdemir (117745) - Ragsdales cleaning
++OSS_L4_SAP_PO - 11778459 (15.04.2020) # PO 4501581885 (21.04.2020) # Pressco - RFIFO installation
+[90T_CRANE_RENTAL_CHANGE] +OSS_L4 @Bodymaker: 16.11.2020 reminder sent to Jeroen, waiting for reply - 17.11.2020 VanRiel replied ok, but I asked for 9, 10 and 11 of December, also for Hyster. Waiting for reply - 24.11.2020 called Jeroen, he will be on site to discuss resources with Paul Illston, monitor - 27.11.2020 discussed, all ready for delivery on the 4th. Monitor
+[SLAC_DIE_SET_TEST] +OSS_L4 @Cupper: 17.11.2020 ask Ron and NDH how to proceed - 24.11.2020 if it takes 2 days to change how are we going to proceed. Ask tomorrow at morning meeting. - 25.11.2020 die set to be changed max at 355 changeover, inform Ron due:2021-02-08
++OSS_L2_SAP_PO - 11823945 (18.11.2020) # PO 4501641445 (24.11.2020) # SLAC - CMB trimmer change parts - 01.12.2020 email sent to Nick asking for drawings, waiting for reply - 07.12.2020 got the drawings and forwared them to SLAC, waiting for reply due:2020-12-10
++OSS_L4_355_SAP_PO - 11824397 (19.11.2020) # PO 4501641240 (20.11.2020) # Pride - Split spacers - arrived, pick them up next monday due:2020-12-14
++OSS_L2_SAP_PO - 11824682 (20.11.2020) # PO 4501644855 (02.12.2020) # Berghege - Foundation L2 - 03.12.2020 asked when work can start, waiting for reply - 07.12.2020 email sent again to Kees, waiting for reply - 07.12.2020 asked Janssen for location drawing, waiting for reply - 08.01.2021 email sent asking if plan can be changed to make one at the time, waiting for reply due:2021-01-11
++OSS_L3_SAP_PO - 11824683 (20.11.2020) # PO 4501644855 (02.12.2020) # Berghege - Foundation L3
++OSS_L2_SAP_PO - 11824708 (20.11.2020) # PO 4501643262 (26.11.2020) # Verhoeven - BM L2 Conveying
++OSS_L4_SAP_PO - 11824142 (18.11.2020) # PO 4501641227 (20.11.2020) # Baajiens - 4x Terminal holder for SLAC BMs
++OSS_L4_SAP_PO - 11825878 (25.11.2020) # PO 4501643015 (26.11.2020) # Proline - Adapted crossover trackwork for L3 BMs
++OSS_L4_SAP_PO - 11825879 (25.11.2020) # PO 4501643018 (26.11.2020) # Akdemir - Bodymakers cleaning
++OSS_L4_SAP_PO - 11825933 (25.11.2020) # PO 4501643303 (26.11.2020) # Verstappen - Piping extension necker L4
++OSS_L4_SAP_PO - 11826275 (26.11.2020) # PO 4501643621 (27.11.2020) # Wallram - KO Holders rework
++OSS_L4_SAP_PO - 11826531 (27.11.2020) # PO 4501643957 (30.11.2020) # Radomsko - Necking die gasket
++OSS_L4_SAP_PO - 11826495 (27.11.2020) # PO 4501644648 (02.12.2020) # Bijlard - SLAC Hydraulic hoses
++OSS_L2_SAP_PO - 11827243 (01.12.2020) # PO 4501645954 (07.12.2020) # Baaijens - Removal brick wall
++OSS_L4_SAP_PO - 11825907 (25.11.2020) # PO 4501643013 (26.11.2020) # Kusters - KO Holder spacers
++OSS_L4_SAP_PO - 11827845 (03.12.2020) # PO 4501646160 (07.12.2020) # ENCO - Oil mist ducting
+[COOLANT_PUMP_BM3G] +OSS_L4 @Bodymaker: 07.12.2020 email sent to Jansen for quote, waiting for reply  - 10.12.2020 reminder sent, waiting for reply - 15.12.2020 got quote and placed in SAP, also asked Basinski for quote, waiting for reply - 17.12.2020 asked for quote at Egger pumps, waiting for reply due:2020-12-18
++OSS_L4_SAP_PO - 11829052 (08.12.2020) # PO 4501647029 (10.12.2020) # Verstappen - Piping Necker L3
++OSS_L4_SAP_PO - 11829192 (09.12.2020) # PO 4501652935 (07.01.2021) # Wallram - Necker tooling spares (KA21546)
+[L2_NEW_VIBROPADS] +OSS_L4 @Bodymaker: 09.12.2020 email sent to Mark asking for quote on 3x bottom vibropads for the BM moving to L2, waiting for reply - 10.12.2020 quote received, forwarded it to Ron, waiting for reply - 15.12.2020 reminder sent to Ron, waiting for reply - 16.12.2020 Email sent to Evans asking if this is correct, waiting for reply - email sent sent to Illston, waiting for reply due:2021-01-11
++OSS_L4_SAP_PO - 11829991 (11.12.2020) # PO 4501647939 (14.12.2020) # Baajiens - Uncoiler safety cupper plate
++OSS_L4_SAP_PO - 11830001 (11.12.2020) # PO 4501650148 (18.12.2020) # VanRiel - BMs unloading
++OSS_L3_SAP_PO - 11830448 (14.12.2020) # PO 4501650981 (07.01.2021) # Jansen - Coolant return pump and tank
+11830001
+[SPARES_L3/L4] +OSS_L4 @Necker: 16.12.2020 email sent to Stacey asking for spares list, waiting for reply - 08.01.2021 reminder sent to Stacey, waiting for reply due:2021-01-13
++OSS_L4_SAP_PO - 11831271 (16.12.2020) # PO 4501650775 (12.01.2021) # Veldkamp - Ragsdales compressor removal
++OSS_L4_SAP_PO - 11831370 (16.12.2020) # PO 4501650368 (12.01.2021) # Enco - Platform feet
++OSS_L4_SAP_PO - 11831762 (18.12.2020) # PO 4501650775 (07.01.2021) # ENCO - Coolant tank modification
++OSS_L4_SAP_PO - 11802541 (18.12.2020) # PO 4501650776 (07.01.2021) # Baajiens - scrap chute extension
+11802541
+4501650981
++OSS_L4_SAP_PO - 11835187 (08.01.2021) # PO 4501655141 (12.01.2021) # Wallram - New domer dies
+11772003
+11835187
++OSS_L4_SAP_PO - 11835710 (12.01.2021) # PO 4501655831 (14.01.2021) # Wallram - revised sleek punch bolts (KA21568)
++OSS_L4_SAP_PO - 11835930 (12.01.2021) # PO 4501655832 (14.01.2021) # Wallram - WXM punch bolts
++OSS_L4_SAP_PO - 11836191 (13.01.2021) # PO 4501655826 (14.01.2021) # Baaijens - Stairs extra work
++OSS_L4_355_SAP_PR - 11836908 (15.01.2021) # Wallram - 355 Revised punch bolts
+[OIL MIST BOXER] +OSS_L4 @Bodymaker: 15.01.2021 email sent to ENCO, waiting for quote due:2021-01-18
