@@ -14,6 +14,7 @@ Menu, MyMenu,Add,% MenuItems,Action ;Add each item to the Menu
 Menu, MyMenu, Show ;Display the GUI and wait for action
 Menu, MyMenu, DeleteAll ;Delete all the menu items
 }
+
 Action:
 ClipboardBackup:=ClipboardAll ;backup clipboard
 Clipboard:=A_ThisMenuItem ;Shove what was selected into the clipboard
